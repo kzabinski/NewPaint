@@ -13,8 +13,8 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
 public class MainActivity extends AppCompatActivity {
-    
-    private final String[] menuTitles = {"Load File", "Brush", "Rubber"};
+
+    private String[] menuTitles;
     private DrawerLayout drawerLayout;
     private ListView drawerList;
 
