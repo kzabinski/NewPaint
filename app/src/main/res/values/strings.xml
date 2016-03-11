@@ -1,4 +1,10 @@
 <resources>
-    <string name="app_name">NewPaint</string>
+    <string name="app_name">New Paint</string>
     <string name="action_settings">Settings</string>
+
+    <string-array name="paint_functions">
+        <item>New file</item>
+        <item></item>
+
+    </string-array>
 </resources>
